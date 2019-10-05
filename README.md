@@ -2,8 +2,8 @@
 
 
 <h1> Sourav Mishra </h1>
-----
 
+-----
 <h2> Education </h2>
 
 <h3> Masters in Computational and Data Sciences </h3>
