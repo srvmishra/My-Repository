@@ -37,6 +37,7 @@ Mechanical model of the drill string under various loads was used to perform fat
 <h3> Detection of Transaction Related Activities </h3>
 
 **Organization:** *Target India Corporation, Bangalore*
+
 *May-July, 2019*
 
 Achieved about 65% top-1 accuracy in recognizing 4 important activities identified across 180 transactions - Scanning, Payment, Using Phone and Using hand scanner. SVM and Logistic Regression models were used on features extracted using Rank Pooling, Dynamic Image and C3D net. The skewness in the data resulted in poor results.
@@ -44,6 +45,7 @@ Achieved about 65% top-1 accuracy in recognizing 4 important activities identifi
 <h3> Development of Simulator for 3-DOF Robot Arms </h3>
 
 **Organization:** *Mechatronics Lab, Indian Institute of Technology, Guwahati*
+
 *May-July, 2017*
 
 Developed a MATLAB based simulator for 3-DOF robotic arms. The simulator could plan paths, compute the kinematics and dynamics of the arm based on the input D-H parameters, masses and moments of inertia, waypoints, speed and acceleration requirements and trajectory types.
@@ -51,6 +53,7 @@ Developed a MATLAB based simulator for 3-DOF robotic arms. The simulator could p
 <h3> Modeling of Drill String Failures </h3>
 
 **Organization:** *Institute of Drilling Technology, ONGC, Dehradun and Indian Institute of Technology, Guwahati*
+
 *May-July, 2016*
 
 Understood the drilling process in detail. Studied various drill string failure modes. 
@@ -65,7 +68,7 @@ Understood the drilling process in detail. Studied various drill string failure 
 ----
 <h3> Awards and Honors </h3>
 
-* Target India Fellowship for MTech Students, 2018-2020
-* ONGC Fellowship, 2016-2017
-* Institute Merit Scholarship, 2015-2016
+* Target India Fellowship for MTech Students, IISc, 2018-2020
+* ONGC Fellowship, IIT Guwahati, 2016-2017
+* Institute Merit Scholarship, IIT Guwahati, 2015-2016
 * National Talent Search Scholarship, 2009-2015
