@@ -59,14 +59,14 @@ Developed a MATLAB based simulator for 3-DOF robotic arms. The simulator could p
 Understood the drilling process in detail. Studied various drill string failure modes. 
 
 ----
-<h3> Experience </h3>
+<h2> Experience </h2>
 
 * Worked as Undergraduate Teaching Assistant for Physics and Mathematics for first year Engineering Students, 2014-2015.
 * Worked as Subject Matter Expert for Toppr.com in Physics and Mathematics, 2014-2017.
 * Worked as Subject Matter Expert for Chegg.com in Mechanical Engineering, 2016-2019.
 
 ----
-<h3> Awards and Honors </h3>
+<h2> Awards and Honors </h2>
 
 * Target India Fellowship for MTech Students, IISc, 2018-2020
 * ONGC Fellowship, IIT Guwahati, 2016-2017
