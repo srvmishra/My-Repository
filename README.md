@@ -12,15 +12,15 @@
 
 <h3> Bachelors in Mechanical Engineering </h3>
 
-*Indian Institute of Technology, Guwahati, 2013-2017.*
+*CPI 9.34, Indian Institute of Technology, Guwahati, 2013-2017.*
 
 <h3> Senior Secondary (Science) </h3>
 
-*D.A.V. Public School, Unit-8, Bhubaneswar, 2011-2013.*
+*95.2%, D.A.V. Public School, Unit-8, Bhubaneswar, 2011-2013.*
 
 <h3> Secondary </h3>
 
-*D.A.V. Public School, Unit-8, Bhubaneswar, 2010-2011.*
+*CGPA 10.0, D.A.V. Public School, Unit-8, Bhubaneswar, 2010-2011.*
 
 ----
 <h2> Thesis Work </h2>
@@ -57,6 +57,28 @@ Developed a MATLAB based simulator for 3-DOF robotic arms. The simulator could p
 *May-July, 2016*
 
 Understood the drilling process in detail. Studied various drill string failure modes. 
+
+---
+<h2> Projects </h2>
+
+<h3> Automating Atari games with Reinforcement Learning </h3>
+
+Used actor-critic policy gradient with epsilon greedy technique to learn to play atari games - enduro and pacman, provided by OpenAI gym library in python.
+
+<h3> Economic Crosscut </h3>
+
+Navigated a striped colored maze in the shortest total cost path using a differential drive robot and an overhead camera for inter-hostel competitions at IIT Guwahati.
+
+---
+<h2> Relevant Courses </h2>
+
+* Deep Learning Specialization, Coursera
+* Machine Learning, Coursera
+* Robotics Specialization, Coursera
+* Modern Robotics Specialization, Coursera
+* Reinforcement Learning Specialization, Coursera
+* Control of Mobile Robots, Coursera
+* Autonomous Mobile Robots, edX
 
 ----
 <h2> Experience </h2>
